@@ -210,7 +210,7 @@
                    <div class="profile">
                         <div class="info">
                             <p>Hey, <b>Jaimy</b></p>
-                            <small class="text-muted">Admin</small>
+                            <small class="text-muted">Fighter</small>
                         </div>
                         <div class="profile-photo">
                             <img src="./images/profile-1.jpg" alt="profile">
